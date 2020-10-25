@@ -4,7 +4,7 @@ import io
 
 #import Address
 from fairpricecalc import FairPriceCheck
-from textsummary import AutomaticSummarization
+from summary import AutomaticSummarization
 
 
 
